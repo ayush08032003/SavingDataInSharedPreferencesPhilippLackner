@@ -58,5 +58,5 @@ class MainActivity : AppCompatActivity() {
 
 /*
 NOTES/STEPS:
-
+Make sure that it will only store only one key-value pair of data for every input stream..!!
  */
